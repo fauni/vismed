@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_filtros.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_popup_filtros.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banco_muestras.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_filtro.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_filtro.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_captura_firma.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_captura_firma.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_principal.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filtro_backup.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_filtro_backup.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tareas_pendientes.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_tareas_pendientes.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitas_negativas.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_visitas_negativas.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tareas_realizadas.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_tareas_realizadas.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_estoy_aqui.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_estoy_aqui.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_banco_muestras.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_popup_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_he_olvidado_mi_contrasenhia.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_he_olvidado_mi_contrasenhia.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seguimiento_banco_muestras.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_seguimiento_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_visita_medica.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_visita_medica.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_visita_realizada.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_visita_realizada.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listado_muestra_medica.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_listado_muestra_medica.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_banco_muestras.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prueba_gps_tracker.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_prueba_gps_tracker.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formulario_visita.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_formulario_visita.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prueba_comprobar_fecha.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_prueba_comprobar_fecha.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_filtro.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_filtro.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_estoy_aqui.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_estoy_aqui.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_banco_muestras.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_filtros_pendientes.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_popup_filtros_pendientes.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_principal.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ficha_informacion_individual.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_ficha_informacion_individual.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banco_muestras_visitador.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_banco_muestras_visitador.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mostrar_bd.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\mostrar_bd.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formulario_banco_muestras_visitador.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_formulario_banco_muestras_visitador.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_filtros_pendientes.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_popup_filtros_pendientes.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ficha_informacion_individual.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_ficha_informacion_individual.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitas_negativas.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_visitas_negativas.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_he_olvidado_mi_contrasenhia.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_he_olvidado_mi_contrasenhia.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rutero_maestro.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_rutero_maestro.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_justificadas.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_justificadas.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prueba_comprobar_fecha.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_prueba_comprobar_fecha.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mostrar_bd.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\mostrar_bd.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seguimiento_banco_muestras.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_seguimiento_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_visita_realizada.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_visita_realizada.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mi_cobertura.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_mi_cobertura.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rutero_maestro.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_rutero_maestro.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_muestra_medica.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_muestra_medica.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filtro_backup.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_filtro_backup.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banco_muestras.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_justificadas_supervisor.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_justificadas_supervisor.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formulario_visita.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_formulario_visita.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_justificadas.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_justificadas.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tareas_pendientes.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_tareas_pendientes.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listado_muestra_medica.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_listado_muestra_medica.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tareas_realizadas.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_tareas_realizadas.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_captura_firma.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_captura_firma.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mi_cobertura.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_mi_cobertura.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banco_muestras_visitador.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_banco_muestras_visitador.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_visita_medica.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_visita_medica.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_filtros.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_popup_filtros.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_justificadas_supervisor.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_justificadas_supervisor.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\4a0fc9458be7b42cb6496b00e38b8430df6c14aa\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_banco_muestras.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_popup_banco_muestras.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prueba_gps_tracker.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_prueba_gps_tracker.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formulario_banco_muestras_visitador.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\activity_formulario_banco_muestras_visitador.xml"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_muestra_medica.xml",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\layout\\list_item_muestra_medica.xml"
+    }
+]

@@ -1,0 +1,267 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/plomo_claro"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/ly_login1"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/negro"
+        android:padding="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/titulo_action_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textSize="20sp"
+            android:textColor="@color/blanco" />
+
+
+        <ImageView
+            android:id="@+id/img_estado_gps"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="right"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/btn_volver"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@drawable/abc_ic_ab_back_mtrl_am_alpha" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/celeste_lafar"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="15dp"
+        android:orientation="horizontal"
+        android:id="@+id/ly_formulario_inicial">
+
+        <!--<TextView
+            android:id="@+id/lb_ltitulo_formulario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titulo_formulario"
+            android:layout_marginTop="10dp"
+            android:background="@color/celeste_lafar"
+            android:textColor="@color/blanco"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+            -->
+
+        <TextView
+            android:id="@+id/lbl_titulo_formulario_banco_muestras_visitador"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/blanco"
+            android:text="@string/titulo_banco_muestras" />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/lbl_codigo_banco_muestra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:gravity="left"
+        android:textColor="@color/negro"
+        android:text="@string/codigo_banco_de_muestra" />
+
+
+    <TextView
+        android:id="@+id/lbl_nombre_doctor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="left"
+        android:textColor="@color/negro"
+        android:text="@string/nombre_doctor" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:id="@+id/ly_datos">
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_gravity="right"
+            android:id="@+id/ly_observaciones3">
+
+            <Button
+                android:id="@+id/btn_captura_firma"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:textSize="12sp"
+                android:layout_marginRight="5dp"
+                android:textColor="@color/blanco"
+                android:background="@drawable/boton_custom"
+                android:text="@string/cargar_firma" />
+
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:textSize="12sp"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/blanco"
+                android:background="@drawable/boton_custom"
+                android:text="@string/ir_a_visita_negativa"
+                android:id="@+id/btn_negativo" />
+
+
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical"
+        android:id="@+id/ly_observaciones_y_mas">
+
+
+
+
+            <TextView
+                android:id="@+id/lbl_negativo_leyenda"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:visibility="gone"
+                android:textStyle="bold"
+                android:textColor="@color/negro"
+                android:text="@string/justificacion_negativo_banco_de_muestras_leyenda" />
+
+            <EditText
+                android:id="@+id/txt_negativo_justificaciones"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:visibility="gone"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:inputType="textEmailAddress"
+                android:hint="@string/justificacion_negativo_banco_de_muestras_hint" />
+
+
+
+        <Button
+            android:id="@+id/btn_negativo_guardar"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textSize="12sp"
+            android:visibility="gone"
+            android:layout_marginRight="5dp"
+            android:textColor="@color/blanco"
+            android:background="@drawable/boton_custom"
+            android:text="@string/guardar_banco_de_muestras" />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="false"
+        android:id="@+id/scroll_view">
+
+        <TableLayout
+            android:id="@+id/tly_banco_de_muestras"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="8dp"
+            android:shrinkColumns="*"
+            android:stretchColumns="*" >
+
+
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>

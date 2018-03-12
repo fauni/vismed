@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/plomo_claro"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/ly_menu_principal">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/negro"
+        android:padding="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/titulo_action_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textSize="20sp"
+            android:textColor="@color/blanco" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:orientation="vertical"
+        android:id="@+id/ly_menu_principal1">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/ly_menu_principal12">
+
+        <TextView
+            android:id="@+id/lb_ltitulo_menu_principal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titulo_menu_principal"
+            android:layout_marginTop="10dp"
+            android:background="@color/celeste_lafar"
+            android:textColor="@color/blanco"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pendientes"
+            android:background="@drawable/boton_custom"
+            android:textColor="@color/blanco"
+            android:padding="10dp"
+            android:drawableLeft="@drawable/tareas_faltantes"
+            android:layout_margin="10dp"
+            android:id="@+id/btn_pendientes" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/boton_custom"
+            android:textColor="@color/blanco"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:text="@string/realizadas"
+            android:drawableLeft="@drawable/tareas_realizadas"
+            android:id="@+id/btn_realizadas" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sincronizar_visitas"
+            android:background="@drawable/boton_custom"
+            android:textColor="@color/blanco"
+            android:padding="10dp"
+            android:drawableLeft="@drawable/sincronizar"
+            android:layout_margin="10dp"
+            android:id="@+id/btn_sincronizar_visitas" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desloguearme"
+            android:background="@drawable/boton_custom"
+            android:textColor="@color/blanco"
+            android:padding="10dp"
+            android:visibility="gone"
+            android:drawableLeft="@drawable/logout"
+            android:layout_margin="10dp"
+            android:id="@+id/btn_desloguearme" />
+
+
+
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/justificadas"
+        android:background="@drawable/boton_custom"
+        android:textColor="@color/blanco"
+        android:padding="10dp"
+        android:drawableLeft="@drawable/justificacion"
+        android:layout_margin="10dp"
+        android:id="@+id/btn_justificadas" />
+
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/banco_de_muestras"
+                    android:background="@drawable/boton_custom"
+                    android:textColor="@color/blanco"
+                    android:padding="10dp"
+                    android:drawableLeft="@drawable/caja_fuerte"
+                    android:layout_margin="10dp"
+                    android:id="@+id/btn_banco_de_muestras" />
+
+
+
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/backup"
+                    android:background="@drawable/boton_custom"
+                    android:textColor="@color/blanco"
+                    android:drawableLeft="@drawable/backup"
+                    android:padding="10dp"
+                    android:layout_margin="10dp"
+                    android:id="@+id/btn_backup" />
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/salir"
+            android:background="@drawable/boton_custom"
+            android:textColor="@color/blanco"
+            android:drawableLeft="@drawable/salir"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:id="@+id/btn_salir" />
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+</LinearLayout>
+

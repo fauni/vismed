@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\train.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\train.mp3"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\silvido.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\silvido.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extra_time.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\extra_time.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\loose.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\loose.mp3"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_droplet.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\water_droplet.mp3"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarma.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\alarma.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Franz Aruni\\.android\\build-cache\\809833c6e58cf7f2b264a8fc5139afc7bea3a21c\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\loose.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\loose.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\water_droplet.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\water_droplet.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\train.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\train.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\silvido.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\silvido.mp3"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\recordatorio.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\recordatorio.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarma.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\alarma.mp3"
+    },
+    {
+        "merged": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\recordatorio.mp3",
+        "source": "D:\\DATOS LAFAR\\lafar_workspace\\VisitaMedica\\app\\src\\main\\res\\raw\\recordatorio.mp3"
+    },
+    {
+        "merged": "D:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extra_time.mp3",
+        "source": "D:\\LAFAR\\VisitaMedica\\app\\src\\main\\res\\raw\\extra_time.mp3"
+    }
+]

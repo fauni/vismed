@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/plomo_claro"
+    android:orientation="vertical"
+    android:descendantFocusability="beforeDescendants"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/ly_ficha">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/negro"
+        android:padding="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/titulo_action_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textSize="20sp"
+            android:textColor="@color/blanco" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/btn_volver"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@drawable/abc_ic_ab_back_mtrl_am_alpha" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical"
+        android:id="@+id/ly_ficha_info">
+
+        <TextView
+            android:id="@+id/lb_ltitulo_ficha_info_banco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/banco_de_muestras"
+            android:layout_marginTop="10dp"
+            android:background="@color/celeste_lafar"
+            android:textColor="@color/blanco"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/ly_datos">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginBottom="2dp"
+            android:text="@string/codigo_de_barra"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/lbl_codigo_banco_muestra" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textSize="10sp"
+            android:layout_marginBottom="2dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/mes_de_visita"
+            android:id="@+id/lbl_nombre_medico" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textSize="10sp"
+            android:layout_marginBottom="2dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/nombre_doctor"
+            android:id="@+id/lbl_fecha_entregado" />
+
+        <ImageView
+            android:id="@+id/iv_firma_banco_muestras"
+            android:layout_width="200dp"
+            android:background="@drawable/no_image"
+            android:layout_height="70dp"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/ly_detalle">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="false"
+            android:id="@+id/scroll_view">
+
+            <TableLayout
+                android:id="@+id/tl_detalle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:shrinkColumns="*"
+                android:stretchColumns="*" >
+
+
+            </TableLayout>
+        </ScrollView>
+
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/ly_no_existe_seguimiento">
+
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/observaciones"
+            android:id="@+id/txt_observaciones_seguimiento" />
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:id="@+id/ly_botones">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/guardar_seguimiento"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:textColor="@color/blanco"
+            android:background="@drawable/boton_custom"
+            android:id="@+id/btn_guardar" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/blanco"
+            android:text="@string/sincronizar_seguimiento"
+            android:layout_margin="5dp"
+            android:background="@drawable/boton_custom"
+            android:id="@+id/btn_sincronizar" />
+
+            </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:orientation="vertical"
+        android:id="@+id/ly_existe_seguimiento">
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Large Text"
+                android:id="@+id/lbl_justificaciones_o_seguimiento"
+                android:layout_gravity="center" />
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>
+

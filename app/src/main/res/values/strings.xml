@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">D_visita</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- SPLASH -->
+    <string name="titulo_splash">VISITADORES MÉDICOS</string>
+
+    <!-- LOGIN -->
+    <string name="login">Loguearme</string>
+    <string name="titulo_login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="he_olvidado_mi_contrasenhia">He olvidado mi contraseña</string>
+    <string name="contrasenhia">Contraseña</string>
+    <string name="datos_correctos">Datos Correctos</string>
+    <string name="debe_ingresar_un_mail_valido">Ingrese un email válido</string>
+    <string name="datos_incorrectos">Datos Incorrectos</string>
+    <string name="imei_incorrecto">El id de su celular es incorrecto o está inactivo</string>
+
+    <!-- RECUPERAR MI CONTRASENHIA -->
+    <string name="titulo_recuperar_mi_contrasenhia">Recuperar mi contraseña</string>
+    <string name="enviar_datos">Enviar datos</string>
+    <string name="email">Email</string>
+    <string name="no_se_pudo_mandar_correo">No se pudo mandar correo de recuperación de cuenta</string>
+    <string name="se_le_mandara_un_correo">Se le mandará un correo indicando su contraseña</string>
+
+    <!-- MENU PRINCIPAL -->
+    <string name="titulo_menu_principal">Menu Principal</string>
+    <string name="pendientes">Tareas Faltantes</string>
+    <string name="banco_de_muestras">Banco De Muestras</string>
+    <string name="opcion_no_permitida_en_esta_version">Opción no permitida en esta versión</string>
+    <string name="debe_tener_el_gps_prendido">Debe tener prendido el gps en PRECISIÓN ALTA</string>
+    <string name="realizadas">Tareas Realizadas</string>
+    <string name="sincronizar_visitas">Sincronizar</string>
+    <string name="desloguearme">Desloguearme</string>
+    <string name="no_puede_desloguearse">Si tiene tareas a sincronizar no puede desloguearse</string>
+    <string name="salir">Salir</string>
+    <string name="justificadas">Justificadas</string>
+    <string name="categoria_abrev">Cate</string>
+    <string name="especialidad_abrev">Espe</string>
+
+    <!-- ASYNC TASKS GENERAL -->
+    <string name="enviando_datos">Enviando Datos...</string>
+    <string name="problemas_de_conexion">Problemas de Conexión...</string>
+    <string name="error_del_sistema">Error del Sistema...</string>
+    <string name="error_json">Error del Sistema Json...</string>
+    <string name="error_exception">Error del Sistema Exception...</string>
+
+    <!-- GENERALES -->
+    <string name="necesita_conexion">No tiene conexión...</string>
+    <string name="title_activity_tareas_pendientes">TareasPendientes</string>
+
+    <!-- TAREAS PENDIENTES -->
+    <string name="titulo_tareas_pendientes">Tareas Pendientes</string>
+
+    <!-- LIST ITEM TAREAS PENDIENTES -->
+    <string name="direccion_doctor">Dirección</string>
+    <string name="codigo_de_barra">Código de Barra</string>
+    <string name="especialidad">Especialidad</string>
+    <string name="buscador">Buscador</string>
+    <string name="visita_no">Visita N°</string>
+    <string name="dia_visita">Día de visita</string>
+
+    <!-- LIST ITEM TAREAS PENDIENTES -->
+    <string name="titulo_negativas">visita Médica Negativa</string>
+    <string name="guardar_visita_medica">Guardar visita médica</string>
+
+    <!-- ASYNC TASKS CARGA VISITAS -->
+    <string name="visitas_descargadas">Visitas descargadas</string>
+    <string name="no_cuenta_con_visitas">No se tiene visitas para realizar</string>
+    <string name="title_activity_formulario_visita">FormularioVisita</string>
+
+    <!-- FORMULARIO VISITA MÉDICA -->
+    <string name="titulo_formulario">Formulario de Visita Médica</string>
+    <string name="observaciones">Observaciones</string>
+    <string name="nombre_doctor">Nombre</string>
+    <string name="agregar_producto">Agregar producto +</string>
+    <string name="id_boleta">Codigo barra</string>
+    <string name="guardar_boleta">Guardar Boleta</string>
+    <string name="datos_guardados_en_la_memoria_local">Datos guardados en la memoria local</string>
+    <string name="titulo_codigo">Código</string>
+    <string name="titulo_nombre">Producto</string>
+    <string name="titulo_cantidad">Cantidad</string>
+    <string name="cantidad_abreviado">Cant</string>
+    <string name="titulo_editar">Editar</string>
+    <string name="estoy_aqui">ESTOY AQUI</string>
+    <string name="ir_a_visita_negativa">NEGATIVA</string>
+    <string name="debe_poner_la_fecha_en_automatico">Configure la fecha en automático</string>
+    <string name="espere_un_momento_hasta_obtener_coordenadas">Espere un momento hasta obtener coordenadas</string>
+    <string name="oops_esto_es_vergonzoso">Ooops esto es vergonzoso\nIntente nuevamente</string>
+    <string name="cierre_la_boleta_intente_nuevamente_llame_al_departamento_de_sistemas">Cierre la boleta, intente nuevamente\nComuníquese con el departamento de sistemas</string>
+    <string name="vuelva_a_intentar_obtener_coordenadas">Vuelva a intentar obtener coordenadas</string>
+    <string name="cargar_firma">CARGAR FIRMA</string>
+
+    <string name="desea_sobreescribir_la_firma_guardada">¿Realmente desea sobreescribir la firma guardada?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+    <string name="visita_acompanhiada">Visita acompañada por:</string>
+    <string name="visita_no_acompanhiada">Visita no acompañada</string>
+    <string name="la_firma_no_fue_guardada">La firma no fue guardada, vuelva a intentar.</string>
+    <string name="mas">+</string>
+    <string name="supervisor">Supervisor</string>
+    <string name="jefatura_de_regional">Jefatura de regional</string>
+    <string name="gerente_de_producto">Gerente de Producto</string>
+    <string name="acesor_medico">Asesor Médico</string>
+
+    <!-- LISTADO PRODUCTOS -->
+    <string name="titulo_listado_productos">Banco de Muestras</string>
+    <string name="elija_el_producto">Elija el producto</string>
+    <string name="debe_elegir_producto">Debe elegir al menos un producto</string>
+
+    <!-- OPERACIONES DESCARGAR PRODUCTO -->
+    <string name="descargando_producto">Descargando Producto...</string>
+    <string name="producto_descargado">Nombre</string>
+    <string name="title_activity_tareas_cumplidas">Map</string>
+    <string name="title_activity_mapa_cumplidas">Map</string>
+
+    <!-- TAREAS REALIZADASS -->
+    <string name="titulo_tareas_realizadas">Lista de tareas realizadas</string>
+    <string name="filtro_por_fecha">Fecha</string>
+    <string name="filtro_positivas">Estado</string>
+    <string name="filtro_sincronizadas">Sinc</string>
+    <string name="filtro_todas">Todas</string>
+    <string name="descargando_tareas_realizadas">Descargando Visitas Realizadas...</string>
+    <string name="visitas_realizadas_descargadas">Visitas realizadas descargadas</string>
+    <string name="usted_no_realizo_ninguna_visita">Usted no realizo ninguna visita aún</string>
+    <string name="reporte_de_cobertura">Reporte de cobertura</string>
+
+    <!-- TAREAS NEGATIVAS -->
+    <string name="titulo_formulario_tareas_negativas">Visita Negativa</string>
+    <string name="guardar_negativa">Guardar Visita Negativa</string>
+    <string name="enunciado_negativa">Indique porque motivo la visita médica es negativa</string>
+    <string name="observaciones_visita_negativa">Observaciones de visita negativa</string>
+    <string name="observacion_obligatoria">Debes llenar alguna observación a la visita negativa.</string>
+    <string name="asuntos_lafar">Asuntos LAFAR</string>
+
+
+    <!-- TAREA SINCRONIZAR VISITA -->
+    <string name="guardando_visitas_positivas">Guardando Visita(s) positivas</string>
+    <string name="guardando_visitas_negativas">Guardando Visita(s) negativas</string>
+    <string name="guardando_visitas_recuperadas">Guardando Visita(s) recuperadas</string>
+    <string name="visita_guardadas">Visita(s) Guardada</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_ficha_informacion_individual">FichaInformacionIndividual</string>
+    <string name="editar_visita">Recuperar Visita</string>
+    <string name="no_puede_editar_visita_medica">No puede recuperar la visita médica si no se sincronizó anteriormente</string>
+
+    <!-- FICHA INFORMACIÓN -->
+    <string name="titulo_ficha">Información de la visita</string>
+    <string name="mes_de_visita">Mes de visita</string>
+    <string name="title_activity_listado_muestra_medica">ListadoMuestraMedica</string>
+    <string name="title_activity_he_olvidado_mi_contrasenhia">HeOlvidadoMiContrasenhia</string>
+    <string name="title_activity_popup_filtros">PopupFiltros</string>
+
+    <!-- FICHA FILTROS -->
+    <string name="titulo_filtros">Filtros Tareas Realizadas</string>
+    <string name="tareas_positivas">Visitas positivas</string>
+    <string name="tareas_negativas">Visitas negativas</string>
+    <string name="tareas_sincronizadas">Visitas sincronizadas</string>
+    <string name="tareas_no_sincronizadas">Visitas no sincronizadas</string>
+    <string name="tareas_segun_fechas">Filtrar Visitas</string>
+
+    <!-- OBSERVACIONES VERIFICACIÓN NEGATIVA -->
+    <string name="baja_medica">Baja Médica</string>
+    <string name="permiso_temporal_o_prolongado">Permiso temporal o Prolongado</string>
+    <string name="retiro">Retiro</string>
+    <string name="jubilacion">Jubilación</string>
+    <string name="vacaciones">Vacaciones</string>
+    <string name="fallecimiento">Fallecimiento</string>
+    <string name="no_se_pudo_realizar_la_visita">No se pudo realizar la visita</string>
+    <string name="visita_justificada">Justificada</string>
+    <string name="title_activity_popup_filtros_pendientes">PopupFiltrosPendientes</string>
+
+    <!-- OBSERVACIONES POPUP FILTRO TAREAS PENDIENTES -->
+    <string name="titulo_popup_filtro_tareas_pendientes">Filtro tareas pendientes</string>
+    <string name="title_activity_prueba_gps_tracker">PruebaGpsTracker</string>
+    <!-- MAPA ESTOY AQUI -->
+    <string name="titulo_eleccion_de_mapas">Localización</string>
+    <string name="mapa_gps">GPS</string>
+    <string name="mapa_redes">REDES</string>
+    <string name="ubicacion_precisa">Ubicación precisa</string>
+    <string name="ubicacion_imprecisa">Ubicación imprecisa</string>
+    <string name="title_activity_captura_firma">CapturaFirma</string>
+
+    <!-- CARGAR FIRMA -->
+    <string name="borrar_firma">Borrar Firma</string>
+    <string name="guardar_firma">Guardar Firma</string>
+    <string name="titulo_captura_de_firma">Captura de firma</string>
+    <string name="title_activity_auxiliar_captura_firma">AuxiliarCapturaFirma</string>
+    <string name="firma_guardada">Firma Guardada</string>
+    <string name="no_se_puede_guardar_la_firma">No se pudo guardar la firma</string>
+    <string name="leyenda_legal_firma">Esta firma solo es válida para el sistema de visita médica de LAFAR</string>
+    <string name="sobrepaso_tres_intentos">Sobrepasó los tres intentos vuelva a intentarlo</string>
+    <string name="title_activity_lista_productos">ListaProductos</string>
+    <string name="ya_existe_firma_guardada">Existe firma guardada</string>
+    <string name="no_existe_firma_guardada">No existe firma guardada</string>
+
+    <!-- BANCO DE MUESTRAS SUPERVISOR-->
+    <string name="titulo_banco_muestras">Formulario de banco de muestras</string>
+    <string name="escribir_nombre_doctor">Escribir nombre de doctor</string>
+    <string name="escribir_muestra_medica">Escribir la muestra medica</string>
+    <string name="escribir_apm">Escriba el nombre del visitador</string>
+    <string name="agregar">Agregar</string>
+    <string name="quitar">Quitar</string>
+    <string name="title_activity_banco_muestras_visitador">BancoMuestrasVisitador</string>
+    <string name="descargando_banco_de_muestras">Descargando banco de muestras...</string>
+    <string name="banco_de_muestras_descargado">Banco de muestras descargado</string>
+    <string name="debe_llenar_todos_los_campso">Debe llenar todos los campos</string>
+
+    <!-- BANCO DE MUESTRAS VISITADOR LISTADO DE BANCO DE MUESTRAS-->
+    <string name="linea">Línea</string>
+    <string name="fecha_generacion">Fecha de generación</string>
+    <string name="sincronizar_banco_muestras">SINC</string>
+    <string name="ver_banco_muestras_realizadas">REALIZADAS</string>
+
+
+    <!-- BANCO DE MUESTRAS FORMULARIO VISITADOR-->
+    <string name="codigo_banco_de_muestra">Código</string>
+    <string name="nombre_de_medico">Nombre de médico</string>
+    <string name="detalle_de_banco_de_muestras">Detalle de banco de muestras</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="producto">Producto</string>
+    <string name="muestra_medica">Muestra médica</string>
+    <string name="guardar_banco_de_muestras">Guardar</string>
+    <string name="cargar_firma_banco_de_muestras">Cargar firma</string>
+    <string name="negativo_banco_de_muestras">Negativo banco de muestras</string>
+    <string name="justificacion_negativo_banco_de_muestras_leyenda">Indique la justificación del banco de muestras negativo</string>
+    <string name="justificacion_negativo_banco_de_muestras_hint">Justificación</string>
+    <string name="titulo_banco_muestras_visitador">Formulario de banco de muestras</string>
+    <string name="banco_de_muestras_guardado_localmente">Banco de muestras guardado en la memoria local</string>
+    <string name="banco_de_muestras_guardado">Banco de muestras guardado correctamente</string>
+    <string name="title_activity_popup_eleccion_medico_apm_mm">PopupEleccionMedicoApmMm</string>
+    <string name="title_activity_banco_muestras_realizado">BancoMuestrasRealizado</string>
+    <string name="guardando_banco_de_muestras">Guardando banco de muestras</string>
+    <!-- Banco de muestras realizado-->
+    <string name="ver_banco_de_muestras_realizadas_completo">Ver banco de muestras realizadas</string>
+    <string name="banco_de_muestras_realizadas_titulo">BM Realizadas</string>
+
+
+    <!-- DIALOGO GPS AHORA O GPS DESPUÉS-->
+
+    <string name="leyenda_guardar_ahora_guardar_despues">Para guardar las coordenadas no se olvide que debe tener prendido el GPS.</string>
+    <string name="guardar_coordenadas_ahora">Guardar las coordenadas ahora</string>
+    <string name="guardar_coordenadas_despues">Guardar las coordenadas luego</string>
+    <string name="tiene_quince_minutos_para_capturar_las_coordenadas">Tiene 15 minutos para capturar las coordenadas</string>
+    <string name="la_tarea_ya_fue_guardada">La tarea ya fue guardada</string>
+    <string name="no_se_olvide_guardar_las_coordenadas_de_la_visita">No se olvide guardar las coordenadas de la visita</string>
+
+    <!-- BACKUP FECHA Y BACKUP-->
+    <string name="backup">Backup</string>
+    <string name="elija_la_fecha_de_backup">Elija la fecha del Backup</string>
+    <string name="mandar_backup">Mandar Backup</string>
+    <string name="title_activity_filtro_backup">FiltroBackup</string>
+    <string name="debe_tener_todas_las_tareas_sincronizadas_para_realizar_backup">Debe tener todas las tareas sincronizadas para realizar el Backup</string>
+    <string name="no_se_eligio_fecha_para_backup">No se eligió la fecha para backup</string>
+    <string name="title_activity_prueba_comprobar_fecha">PruebaComprobarFecha</string>
+    <string name="title_activity_mi_cobertura">MiCobertura</string>
+
+
+    <!--REPORTE DE MI COBERTURA-->
+    <string name="positivas">Positivas</string>
+    <string name="negativas">Negativas</string>
+    <string name="faltantes">Faltantes</string>
+    <string name="total">Total</string>
+    <string name="titulo_reporte_mi_cobertura">Reporte de mi Cobertura</string>
+    <string name="descargando_mi_cobertura">Descargando mi cobertura actual...</string>
+    <string name="cobertura_descargada">Cobertura descargada</string>
+    <string name="cobertura_del_mes">Cobertura:</string>
+    <string name="cobertura_del_anhio">/</string>
+    <string name="title_activity_seguimiento_banco_muestras">SeguimientoBancoMuestras</string>
+
+    <!--FICHA BANCO DE MUESTRAS-->
+    <string name="guardar_seguimiento">Guardar</string>
+    <string name="sincronizar_seguimiento">Sincronizar</string>
+    <string name="sincronizando_seguimiento">Sincronizando seguimiento...</string>
+    <string name="seguimiento_sincronizado">Seguimiento_sincronizado</string>
+    <string name="seguimiento_guardado_en_la_memoria_local">Seguimiento guardado en la memoria local</string>
+    <string name="title_activity_justificadas_supervisor">JustificadasSupervisor</string>
+
+
+
+    <!--SUPERVISOR JUSTIFICADAS-->
+    <string name="titulo_justificadas_supervisor">Visitas Justificadas</string>
+    <string name="autorizar">Autorizar</string>
+    <string name="rechazar">Rechazar</string>
+    <string name="no_tiene_justificadas_pendientes">No se tienen visitas justificadas pendientes</string>
+    <string name="negativas_justificadas_descargadas">Negativas justificadas descargadas</string>
+    <string name="guardar_justificaciones">Guardar Justificaciones</string>
+    <string name="sincronizar_justificaciones">Sincronizar Justificaciones</string>
+    <string name="title_activity_rutero_maestro">RuteroMaestro</string>
+    <string name="justificadas_sincronizadas">Visitas justificadas sincronizadas</string>
+    <string name="no_hay_justificadas">No existen tareas justificadas</string>
+
+
+
+    <!--RUTERO MAESTRO-->
+    <string name="titulo_rutero_maestro">Rutero Maestro</string>
+    <string name="semana1">Semana 1</string>
+    <string name="semana2">Semana 2</string>
+    <string name="semana3">Semana 3</string>
+    <string name="semana4">Semana 4</string>
+    <string name="semana5">Semana 5</string>
+
+
+</resources>

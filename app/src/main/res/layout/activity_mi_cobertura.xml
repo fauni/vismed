@@ -1,0 +1,261 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/plomo_claro"
+android:orientation="vertical"
+android:layout_gravity="center_vertical"
+android:id="@+id/ly_ficha">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true"
+    android:background="@color/negro"
+    android:padding="10dp"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/titulo_action_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:textColor="@color/blanco" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/btn_volver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@drawable/abc_ic_ab_back_mtrl_am_alpha" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical"
+    android:id="@+id/ly_ficha_info">
+
+    <TextView
+        android:id="@+id/lbl_titulo_mi_cobertura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_reporte_mi_cobertura"
+        android:layout_marginTop="10dp"
+        android:background="@color/celeste_lafar"
+        android:textColor="@color/blanco"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:layout_marginRight="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+</LinearLayout>
+
+
+
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="25dp"
+    android:layout_marginRight="25dp"
+    android:orientation="vertical"
+    android:id="@+id/ly_pie">
+
+
+
+    <com.androidplot.pie.PieChart
+        android:id="@+id/mySimplePieChart"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/negro"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Large Text"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:id="@+id/lbl_titulo_mes_y_anhio" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content">
+
+        <TableRow
+
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/faltantes"
+                android:textSize="10dp"
+                android:padding="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="2dp"
+                android:textColor="@color/negro"
+                android:background="@color/mostazita"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:id="@+id/lbl_titulo_pendientes" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/positivas"
+                android:textColor="@color/negro"
+                android:textSize="10dp"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="2dp"
+                android:background="@color/celeste_claro"
+                android:id="@+id/lbl_titulo_positivas" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/negativas"
+                android:layout_weight="1"
+                android:textSize="10dp"
+                android:padding="5dp"
+                android:textColor="@color/negro"
+                android:textStyle="bold"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="2dp"
+                android:background="@color/rojo_claro_un_tono"
+                android:id="@+id/lbl_titulo_negativas" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/total"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:textSize="10dp"
+                android:textColor="@color/negro"
+                android:textStyle="bold"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="2dp"
+                android:background="@color/verde_claro"
+                android:id="@+id/lbl_titulo_total" />
+
+
+
+        </TableRow>
+
+
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/faltantes"
+                android:textColor="@color/negro"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/plomo"
+                android:textSize="10dp"
+                android:id="@+id/lbl_faltantes" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/positivas"
+                android:textColor="@color/negro"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:textSize="10dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginBottom="2dp"
+                android:background="@color/plomo"
+                android:id="@+id/lbl_positivas" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/negativas"
+                android:layout_weight="1"
+                android:textSize="10dp"
+                android:padding="5dp"
+                android:textColor="@color/negro"
+                android:layout_marginLeft="2dp"
+                android:layout_marginBottom="2dp"
+                android:background="@color/plomo"
+                android:id="@+id/lbl_negativas" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/total"
+                android:textSize="10dp"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:textColor="@color/negro"
+                android:layout_marginLeft="2dp"
+                android:layout_marginBottom="2dp"
+                android:background="@color/plomo"
+                android:id="@+id/lbl_total" />
+
+
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+
+
+</LinearLayout>
+
+
+
+
+
+</LinearLayout>
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="visita_medica.lafar.com.visitamedica"
+    android:versionCode="12"
+    android:versionName="1.11" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/Base.Theme.AppCompat.Light" >
+        <activity android:name="visita_medica.lafar.com.visitamedica.app.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.Login"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.MenuPrincipal"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.TareasPendientes"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.FormularioVisita"
+            android:screenOrientation="landscape"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.FormularioRecuperarVisita"
+            android:screenOrientation="landscape"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.AuxiliarCapturaFirma"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.TareasRealizadas"
+            android:theme="@style/Base.Theme.AppCompat.Light"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.VisitasNegativas"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.FichaInformacionIndividual"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.ListadoMuestraMedica"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.HeOlvidadoMiContrasenhia"
+            android:theme="@style/Base.Theme.AppCompat.Light" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.PopupFiltros"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.PopupFiltrosPendientes"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.PruebaGpsTracker"
+            android:label="@string/title_activity_prueba_gps_tracker" >
+        </activity>
+
+        <service
+            android:name="visita_medica.lafar.com.visitamedica.app.LocationService"
+            android:enabled="true" />
+
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.EstoyAqui2"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.CapturaFirma"
+            android:screenOrientation="landscape"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.AuxiliarMostrarBaseDatos"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.PopupBancoMuestras"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity android:name="visita_medica.lafar.com.visitamedica.app.BancoMuestras" >
+        </activity>
+        <activity android:name="visita_medica.lafar.com.visitamedica.app.BancoMuestrasVisitador" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.FormularioBancoMuestrasVisitador"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.BancoMuestrasRealizado"
+            android:label="@string/title_activity_banco_muestras_realizado" >
+        </activity>
+
+        <receiver
+            android:name="visita_medica.lafar.com.visitamedica.app.AlarmReceiver"
+            android:process=":remote" />
+        <receiver
+            android:name="visita_medica.lafar.com.visitamedica.app.AlarmReceiverCoordenadasCero"
+            android:process=":remote" />
+
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.FiltroBackup"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" >
+        </activity>
+        <activity android:name="visita_medica.lafar.com.visitamedica.app.PruebaComprobarFecha" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.MiCobertura"
+            android:label="@string/title_activity_mi_cobertura" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.SeguimientoBancoMuestras"
+            android:label="@string/title_activity_seguimiento_banco_muestras" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.JustificadasSupervisor"
+            android:label="@string/title_activity_justificadas_supervisor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="visita_medica.lafar.com.visitamedica.app.RuteroMaestro"
+            android:label="@string/title_activity_rutero_maestro"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

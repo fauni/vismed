@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<config
+    fillPaint.color="@color/celeste_claro"
+    labelPaint.textSize="10dp"
+    labelPaint.color="@color/negro"
+
+    />

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+          <TextView
+                android:id="@+id/lbl_recibo_bd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+       
+
+            <EditText
+                android:id="@+id/txt_recibo_bd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10" >
+                <requestFocus />
+            </EditText>
+    
+ 			<Button
+              android:id="@+id/btn_mostrar_datos"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="Mostrar base de datos" />
+            
+            
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TableLayout
+            android:id="@+id/tableLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:shrinkColumns="*"
+            android:stretchColumns="*" >
+
+     
+        </TableLayout>
+        </ScrollView>
+  
+
+</LinearLayout>

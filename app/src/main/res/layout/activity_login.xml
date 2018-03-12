@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/plomo_claro"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/ly_login1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/negro"
+        android:padding="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/titulo_action_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textSize="20sp"
+            android:textColor="@color/blanco" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:orientation="vertical"
+        android:id="@+id/ly_login">
+
+        <TextView
+            android:id="@+id/lb_ltitulo_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titulo_login"
+            android:layout_marginTop="10dp"
+            android:background="@color/celeste_lafar"
+            android:textColor="@color/blanco"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/txt_usuario"
+            android:layout_width="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_height="wrap_content"
+            android:hint="@string/usuario"
+            android:padding="10dp"
+            android:background="@color/blanco"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/plomo"
+            android:layout_margin="10dp"
+            >
+        </EditText>
+
+
+
+
+        <EditText
+            android:id="@+id/txt_contrasenhia"
+            android:layout_width="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_height="wrap_content"
+            android:hint="@string/contrasenhia"
+            android:inputType="textPassword"
+            android:textColor="@color/plomo"
+            android:background="@color/blanco"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+
+            >
+        </EditText>
+
+
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content" >
+
+            <TableRow  android:id="@+id/tbr_conjunto_botones_login">
+
+
+
+                <Button
+                    android:id="@+id/btn_login"
+                    android:layout_height="match_parent"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:textColor="@color/blanco"
+                    android:background="@drawable/boton_custom"
+                    android:text="@string/login" />
+
+
+            </TableRow>
+        </TableLayout>
+        <TextView
+            android:id="@+id/lbl_he_olvidado_mi_contrasenhia"
+            android:layout_width="wrap_content"
+            android:textColor="@color/celeste_lafar"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/he_olvidado_mi_contrasenhia" />
+    </LinearLayout>
+</LinearLayout>
+
