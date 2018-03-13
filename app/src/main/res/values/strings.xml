@@ -28,6 +28,7 @@
 
     <!-- MENU PRINCIPAL -->
     <string name="titulo_menu_principal">Menu Principal</string>
+    <string name="inicio">Punto de Encuentro</string>
     <string name="pendientes">Tareas Faltantes</string>
     <string name="banco_de_muestras">Banco De Muestras</string>
     <string name="opcion_no_permitida_en_esta_version">Opción no permitida en esta versión</string>

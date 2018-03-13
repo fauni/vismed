@@ -77,6 +77,17 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="@string/inicio"
+            android:background="@drawable/boton_custom"
+            android:textColor="@color/blanco"
+            android:padding="10dp"
+            android:drawableLeft="@drawable/pencuentro2"
+            android:layout_margin="10dp"
+            android:id="@+id/btn_punto_encuentro" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="@string/pendientes"
             android:background="@drawable/boton_custom"
             android:textColor="@color/blanco"
