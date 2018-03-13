@@ -24,6 +24,7 @@
         android:debuggable="true"
         android:icon="@drawable/logo"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/Base.Theme.AppCompat.Light" >
         <activity android:name="visita_medica.lafar.com.visitamedica.app.Splash" >
             <intent-filter>

@@ -1,4 +1,4 @@
-#Fri Mar 09 11:09:55 BOT 2018
-base.0=D\:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Mar 13 13:34:54 BOT 2018
+base.0=D\:\\LAFAR\\vismed\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

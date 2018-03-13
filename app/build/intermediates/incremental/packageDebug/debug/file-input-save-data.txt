@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Thu Feb 08 12:15:32 BOT 2018
-1.base=D\:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\assets\\debug
+#Mon Mar 12 15:03:18 BOT 2018
+1.base=D\:\\LAFAR\\vismed\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
-1.set=ASSET
-0.path=classes.dex
-0.set=DEX
-0.base=D\:\\LAFAR\\VisitaMedica\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-1.path=visita_medica.sqlite
+1.set=DEX
+0.path=visita_medica.sqlite
+0.set=ASSET
+0.base=D\:\\LAFAR\\vismed\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VisitaMedica.iml" filepath="$PROJECT_DIR$/VisitaMedica.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidplot-core-0.6.1/androidplot-core-0.6.1.iml" filepath="$PROJECT_DIR$/androidplot-core-0.6.1/androidplot-core-0.6.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vismed.iml" filepath="$PROJECT_DIR$/vismed.iml" />
     </modules>
   </component>
 </project>
